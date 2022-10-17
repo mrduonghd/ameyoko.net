@@ -1,0 +1,16 @@
+[
+  {
+    "shop_no" : "101",
+    "shop_name" : "e-trend",
+    "category" : "fashion",
+    "url" : "https://ameyoko.net/index.php/marketplace/seller/profile/shop/etrend",
+    "logo_image" : "https://ameyoko.net/shop/logo/logoA.png"
+  },
+  {
+    "shop_no" : "102",
+    "shop_name" : "芳屋",
+    "category" : "food",
+    "url" : "https://ameyoko.net/index.php/marketplace/seller/profile/shop/%E8%8A%B3%E5%B1%8B",
+    "logo_image" : "https://ameyoko.net/shop/logo/logoB.png"
+  }
+]

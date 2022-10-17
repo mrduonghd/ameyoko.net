@@ -1,0 +1,5 @@
+# invisible files
+.*
+!.gitignore
+!.gitkeep
+admin/shop_edit/tmp/

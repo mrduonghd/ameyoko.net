@@ -1,0 +1,114 @@
+@charset "euc-jp";
+
+#header_logo{
+	margin:1em auto;
+	background: url(../images/header_index.gif)  top left no-repeat;
+	width: 600px;
+	height: 66px;
+}
+
+#header_logo h1{
+	display: block;
+	text-indent: -9999px;
+	background-position: top left;
+	width: 600px;
+	height: 50px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#information{
+	width:600px;
+	margin:1em auto;
+	border:#999 dotted ;
+	padding:10px;
+}
+
+#stylized ul{
+	list-style: none;
+}
+
+#menu_topad {
+	background: url(../images/m_topad.gif)  top left no-repeat;
+	height: 50px;
+	margin: 1em;
+}
+	
+#menu_topad a {
+	display: block;
+	text-indent: -9999px;
+	background-position: top left;
+	width: 380px;
+	height: 50px;
+	text-decoration: none;
+	overflow: hidden;
+	}
+
+#menu_topics {
+	background: url(../images/m_topics.gif)  top left no-repeat;
+	height: 50px;
+	margin: 1em;
+}
+	
+#menu_topics a {
+	display: block;
+	text-indent: -9999px;
+	background-position: top left;
+	width: 380px;
+	height: 50px;
+	text-decoration: none;
+	overflow: hidden;
+	}
+
+#menu_coupon {
+	background: url(../images/m_coupon.gif)  top left no-repeat;
+	height: 50px;
+	margin: 1em;
+}
+	
+#menu_coupon a {
+	display: block;
+	text-indent: -9999px;
+	background-position: top left;
+	width: 380px;
+	height: 50px;
+	text-decoration: none;
+	overflow: hidden;
+	}
+
+#menu_job_offer {
+	background: url(../images/m_job_offer.gif)  top left no-repeat;
+	height: 50px;
+	margin: 1em;
+}
+	
+#menu_job_offer a {
+	display: block;
+	text-indent: -9999px;
+	background-position: top left;
+	width: 380px;
+	height: 50px;
+	text-decoration: none;
+	overflow: hidden;
+	}
+	
+#menu_shop_edit {
+	background: url(../images/m_shop_edit.gif)  top left no-repeat;
+	height: 50px;
+	margin: 1em;
+}
+
+#menu_shop_edit a {
+	display: block;
+	text-indent: -9999px;
+	background-position: top left;
+	width: 380px;
+	height: 50px;
+	text-decoration: none;
+	overflow: hidden;
+	}
+	
+#help{
+	margin:1em auto;
+	width: 600px;
+}
